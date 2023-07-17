@@ -71,4 +71,3 @@ Para verificar as rotas disponíveis na API digite o comando:
 ```
 php artisan route:list
 ```
-# testonfly-laravel
